@@ -1,0 +1,1 @@
+#app{position:relative}.sidebar{position:fixed;top:0;bottom:0;left:-300px;transition:left .3s ease-out;width:300px;z-index:100;padding:10px;background-color:grey}.sidebar.active{left:0}.icon-close{position:absolute;top:15px;right:15px}.icon-close,.icon-open{cursor:pointer}.content{margin-top:20px}.header-admin{background-color:#228b22;padding:15px}
